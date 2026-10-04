@@ -1,0 +1,25 @@
+# Android
+*.iml
+.idea/
+.gradle/
+local.properties
+
+# Build
+build/
+out/
+
+# Gradle Wrapper (если не хочешь хранить его в репо, но лучше оставить)
+# gradle/
+# gradlew
+# gradlew.bat
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
+
+# Test Reports (если хочешь хранить их отдельно, но для ДЗ лучше закоммитить один отчет)
+# Test Results*.html
+
+# IntelliJ IDEA
+*.ipr
+*.iws
